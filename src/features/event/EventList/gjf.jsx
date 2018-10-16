@@ -1,0 +1,1 @@
+{"Gender":"Male","mar":"Yes","deps":3,"Education":"Graduate","s_emp":"No","ampi":3036,"coi":2504.0,"lam":158.0,"lamt":360.0,"Cretory":0.0,"propArea":"Semiurban"}
